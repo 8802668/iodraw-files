@@ -122,9 +122,7 @@
         </mxCell>
         <mxCell id="L6wsiiHqYXWcA17jsBJQ-108" value="Ephemeris Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0;entryY=0.7;rounded=0;" edge="1" parent="1" source="L6wsiiHqYXWcA17jsBJQ-88" target="L6wsiiHqYXWcA17jsBJQ-89">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="422" y="439" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L6wsiiHqYXWcA17jsBJQ-109" value="Ephemeris Data" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.46;entryX=0.23;entryY=0.99;rounded=0;" edge="1" parent="1" source="L6wsiiHqYXWcA17jsBJQ-88" target="L6wsiiHqYXWcA17jsBJQ-87">
